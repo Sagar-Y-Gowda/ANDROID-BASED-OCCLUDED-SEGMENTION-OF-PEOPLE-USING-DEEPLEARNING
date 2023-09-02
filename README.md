@@ -1,7 +1,7 @@
 # ANDROID-BASED-OCCLUDED-SEGMENTION-OF-PEOPLE-USING-DEEPLEARNING
 The objective is to develop an android application that segments a person in an image very  fastly at no cost.
     
- Inthis work, we propose a high-efficiency person segmentation 
+In this work, we propose a high-efficiency person segmentation 
 system that achieves high segmentation accuracy with a CNN network. 
 A lightweight automatic person segmentation network is proposed, 
 which is small and efficient for person segmentation by leveraging 
