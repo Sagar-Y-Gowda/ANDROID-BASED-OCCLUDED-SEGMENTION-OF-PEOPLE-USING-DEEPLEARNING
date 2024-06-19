@@ -1,0 +1,3 @@
+The objective is to develop an android application that segments a person in an image very fastly at no cost.
+
+In this work, we propose a high-efficiency person segmentation system that achieves high segmentation accuracy with a CNN network. A lightweight automatic person segmentation network is proposed, which is small and efficient for person segmentation by leveraging atrous convolution. The experimental results prove that an image pyramid resizing augmentation can also improve efficiency. Our proposed segmentation method achieves an accuracy of 94% on the person segmentation dataset built in this work, which exceeds the results of previous state-of-the art methods in accuracy and efficiency.
