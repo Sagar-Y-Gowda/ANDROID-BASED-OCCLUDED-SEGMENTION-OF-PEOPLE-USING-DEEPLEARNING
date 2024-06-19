@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PeopleSegmentation.iml" filepath="$PROJECT_DIR$/.idea/modules/PeopleSegmentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PeopleSegmentation.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PeopleSegmentation.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PeopleSegmentation.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PeopleSegmentation.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PeopleSegmentation.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PeopleSegmentation.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PeopleSegmentation.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PeopleSegmentation.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/macelibrary/PeopleSegmentation.macelibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/macelibrary/PeopleSegmentation.macelibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/macelibrary/PeopleSegmentation.macelibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/macelibrary/PeopleSegmentation.macelibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/macelibrary/PeopleSegmentation.macelibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/macelibrary/PeopleSegmentation.macelibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/macelibrary/PeopleSegmentation.macelibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/macelibrary/PeopleSegmentation.macelibrary.unitTest.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,3 @@
+F:/Android/Android_Projects/PeopleSegmentationDemo/macelibrary/.cxx/Debug/b5t5d4i6/arm64-v8a/CMakeFiles/mace_jni.dir
+F:/Android/Android_Projects/PeopleSegmentationDemo/macelibrary/.cxx/Debug/b5t5d4i6/arm64-v8a/CMakeFiles/edit_cache.dir
+F:/Android/Android_Projects/PeopleSegmentationDemo/macelibrary/.cxx/Debug/b5t5d4i6/arm64-v8a/CMakeFiles/rebuild_cache.dir

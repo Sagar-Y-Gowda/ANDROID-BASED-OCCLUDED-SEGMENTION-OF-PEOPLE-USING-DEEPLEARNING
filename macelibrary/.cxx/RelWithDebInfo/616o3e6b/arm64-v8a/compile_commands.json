@@ -1,0 +1,7 @@
+[
+{
+  "directory": "F:/Android/Android_Projects/PeopleSegmentationDemo/macelibrary/.cxx/RelWithDebInfo/616o3e6b/arm64-v8a",
+  "command": "C:\\SDK_Android\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/SDK_Android/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/SDK_Android/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dmace_jni_EXPORTS -I../../../../ -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -fopenmp -O2 -g -DNDEBUG -fPIC   -o CMakeFiles\\mace_jni.dir\\src\\main\\cpp\\mace_jni.cc.o -c F:\\Android\\Android_Projects\\PeopleSegmentationDemo\\macelibrary\\src\\main\\cpp\\mace_jni.cc",
+  "file": "F:/Android/Android_Projects/PeopleSegmentationDemo/macelibrary/src/main/cpp/mace_jni.cc"
+}
+]

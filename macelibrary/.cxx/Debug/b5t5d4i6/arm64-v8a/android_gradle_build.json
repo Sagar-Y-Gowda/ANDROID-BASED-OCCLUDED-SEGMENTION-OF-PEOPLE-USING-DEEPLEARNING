@@ -1,0 +1,42 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "F:\\Android\\Android_Projects\\PeopleSegmentationDemo\\macelibrary\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\SDK_Android\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "F:\\Android\\Android_Projects\\PeopleSegmentationDemo\\macelibrary\\.cxx\\Debug\\b5t5d4i6\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\SDK_Android\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "F:\\Android\\Android_Projects\\PeopleSegmentationDemo\\macelibrary\\.cxx\\Debug\\b5t5d4i6\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "mace_jni-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\SDK_Android\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "F:\\Android\\Android_Projects\\PeopleSegmentationDemo\\macelibrary\\.cxx\\Debug\\b5t5d4i6\\arm64-v8a",
+        "mace_jni"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "mace_jni",
+      "output": "F:\\Android\\Android_Projects\\PeopleSegmentationDemo\\macelibrary\\build\\intermediates\\cxx\\Debug\\b5t5d4i6\\obj\\arm64-v8a\\libmace_jni.so",
+      "runtimeFiles": [
+        "F:\\Android\\Android_Projects\\PeopleSegmentationDemo\\macelibrary\\src\\main\\cpp\\lib\\arm64-v8a\\libmace.so"
+      ]
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cc"
+  ]
+}

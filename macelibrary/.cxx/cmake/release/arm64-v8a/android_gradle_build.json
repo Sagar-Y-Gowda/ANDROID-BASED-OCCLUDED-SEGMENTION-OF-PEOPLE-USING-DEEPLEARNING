@@ -1,0 +1,42 @@
+{
+  "stringTable": {
+    "0": "F:/Android/Android_Projects/PeopleSegmentationDemo/macelibrary/.cxx/cmake/release/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android21 --gcc-toolchain=C:/SDK_Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/SDK_Android/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmace_jni_EXPORTS -I../../../../ -I../../../../src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -fopenmp -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "C:\\SDK_Android\\ndk\\20.0.5594570\\build\\cmake\\android.toolchain.cmake",
+    "C:\\SDK_Android\\ndk\\20.0.5594570\\build\\cmake\\platforms.cmake",
+    "F:\\Android\\Android_Projects\\PeopleSegmentationDemo\\macelibrary\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\SDK_Android\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"F:\\Android\\Android_Projects\\PeopleSegmentationDemo\\macelibrary\\.cxx\\cmake\\release\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\SDK_Android\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"F:\\Android\\Android_Projects\\PeopleSegmentationDemo\\macelibrary\\.cxx\\cmake\\release\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "mace_jni-Release-arm64-v8a": {
+      "buildCommand": "C:\\SDK_Android\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"F:\\Android\\Android_Projects\\PeopleSegmentationDemo\\macelibrary\\.cxx\\cmake\\release\\arm64-v8a\" mace_jni",
+      "buildType": "release",
+      "toolchain": "972119990",
+      "abi": "arm64-v8a",
+      "artifactName": "mace_jni",
+      "files": [
+        {
+          "src": "F:\\Android\\Android_Projects\\PeopleSegmentationDemo\\macelibrary\\src\\main\\cpp\\mace_jni.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "F:\\Android\\Android_Projects\\PeopleSegmentationDemo\\macelibrary\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libmace_jni.so"
+    }
+  },
+  "toolchains": {
+    "972119990": {
+      "cppCompilerExecutable": "C:\\SDK_Android\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cc"
+  ]
+}

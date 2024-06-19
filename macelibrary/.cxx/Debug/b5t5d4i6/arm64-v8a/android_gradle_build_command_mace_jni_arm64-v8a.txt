@@ -1,0 +1,7 @@
+Executable : C:\SDK_Android\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+F:\Android\Android_Projects\PeopleSegmentationDemo\macelibrary\.cxx\Debug\b5t5d4i6\arm64-v8a
+mace_jni
+jvmArgs : 
+

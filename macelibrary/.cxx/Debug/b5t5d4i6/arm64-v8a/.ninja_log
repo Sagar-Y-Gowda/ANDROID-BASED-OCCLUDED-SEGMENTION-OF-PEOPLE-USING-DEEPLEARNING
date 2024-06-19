@@ -1,0 +1,17 @@
+# ninja log v5
+0	32	0	clean	871e67a5e917f94b
+2	2718	679093471	CMakeFiles/mace_jni.dir/src/main/cpp/mace_jni.cc.o	a94395aec4bec52d
+2724	3259	679093471	../../../../build/intermediates/cxx/Debug/b5t5d4i6/obj/arm64-v8a/libmace_jni.so	32dd6643af752833
+1	33	0	clean	871e67a5e917f94b
+7	2624	679093562	CMakeFiles/mace_jni.dir/src/main/cpp/mace_jni.cc.o	a94395aec4bec52d
+2625	3153	679093562	../../../../build/intermediates/cxx/Debug/b5t5d4i6/obj/arm64-v8a/libmace_jni.so	32dd6643af752833
+0	30	0	clean	871e67a5e917f94b
+9	2683	679093780	CMakeFiles/mace_jni.dir/src/main/cpp/mace_jni.cc.o	a94395aec4bec52d
+2683	3216	679093780	../../../../build/intermediates/cxx/Debug/b5t5d4i6/obj/arm64-v8a/libmace_jni.so	32dd6643af752833
+0	29	0	clean	871e67a5e917f94b
+1	31	0	clean	871e67a5e917f94b
+7	2570	679093901	CMakeFiles/mace_jni.dir/src/main/cpp/mace_jni.cc.o	a94395aec4bec52d
+2570	3095	679093901	../../../../build/intermediates/cxx/Debug/b5t5d4i6/obj/arm64-v8a/libmace_jni.so	32dd6643af752833
+0	32	0	clean	871e67a5e917f94b
+7	2611	679094075	CMakeFiles/mace_jni.dir/src/main/cpp/mace_jni.cc.o	a94395aec4bec52d
+2611	3161	679094076	../../../../build/intermediates/cxx/Debug/b5t5d4i6/obj/arm64-v8a/libmace_jni.so	32dd6643af752833
